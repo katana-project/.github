@@ -1,4 +1,4 @@
 a collection of random software I dreamed up over the years
 
-sponsor me: https://ko-fi.com/zlataovce
+sponsor me: https://ko-fi.com/zlataovce <br />
 discord: https://discord.gg/HZhPBbxpFP
